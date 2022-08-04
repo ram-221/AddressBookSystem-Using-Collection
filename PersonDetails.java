@@ -1,7 +1,8 @@
-package com.bridfggelab.addressbooksystemuc7;
+package com.bidgelab.addressbookSystemuc8;
+
 import java.util.Objects;
 
-public class  PersonDetails {
+public class PersonDetails {
 
 	@Override
 	public int hashCode() {
@@ -99,6 +100,4 @@ public class  PersonDetails {
 				+ city + ", state=" + state + ", email=" + email + ", zip=" + zip + ", phoneNumber=" + phoneNumber
 				+ "]";
 	}
-
-
 }
